@@ -1,0 +1,1232 @@
+[
+  {
+    "nome": "Hábito financeiro",
+    "descricão": "Aprender a organizar o dinheiro, controlar gastos e criar uma reserva financeira para o futuro.",
+    "link": "https://www.c6bank.com.br/blog/habitos-financeiros",
+    "imagem": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+    "quiz": [
+      {
+        "pergunta": "Com que frequência você acompanha seus gastos?",
+        "opcoes": [
+          {
+            "texto": "Sempre, tenho um controle detalhado (planilha/app).",
+            "pontos": 2
+          },
+          {
+            "texto": "Às vezes, quando sinto que gastei demais.",
+            "pontos": 1
+          },
+          {
+            "texto": "Raramente ou nunca, não sei para onde vai meu dinheiro.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você possui uma reserva de emergência?",
+        "opcoes": [
+          {
+            "texto": "Sim, tenho o equivalente a 3-6 meses de custos guardado.",
+            "pontos": 2
+          },
+          {
+            "texto": "Estou começando a montar a minha.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não, não tenho nenhuma reserva para imprevistos.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Como você lida com dívidas de cartão de crédito ou cheque especial?",
+        "opcoes": [
+          {
+            "texto": "Evito ao máximo e, se uso, pago a fatura total.",
+            "pontos": 2
+          },
+          {
+            "texto": "Às vezes pago o mínimo e deixo acumular.",
+            "pontos": 1
+          },
+          {
+            "texto": "Estou sempre no rotativo e com dificuldades para pagar.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você costuma gastar mais do que ganha?",
+        "opcoes": [
+          {
+            "texto": "Não, sempre vivo um degrau abaixo e consigo poupar.",
+            "pontos": 2
+          },
+          {
+            "texto": "Às vezes, principalmente com compras por impulso.",
+            "pontos": 1
+          },
+          {
+            "texto": "Sim, minhas contas quase nunca fecham no fim do mês.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você estabelece metas financeiras (comprar uma casa, aposentadoria)?",
+        "opcoes": [
+          {
+            "texto": "Sim, tenho metas claras e um plano para alcançá-las.",
+            "pontos": 2
+          },
+          {
+            "texto": "Tenho algumas ideias, mas nada concreto.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não, vivo o presente sem pensar muito no futuro.",
+            "pontos": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Hábito da leitura",
+    "descricão": "Ler diariamente desenvolve foco, criatividade e aumenta o conhecimento.",
+    "link": "https://guiadoestudante.abril.com.br/estudo/descubra-criar-habito-da-leitura/",
+    "imagem": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+    "quiz": [
+      {
+        "pergunta": "Quantos livros você leu no último ano?",
+        "opcoes": [
+          {
+            "texto": "Mais de 5, a leitura faz parte da minha rotina.",
+            "pontos": 2
+          },
+          {
+            "texto": "Entre 1 e 4, leio quando tenho tempo.",
+            "pontos": 1
+          },
+          {
+            "texto": "Nenhum, não tenho o costume de ler.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você reserva um tempo específico do seu dia para ler?",
+        "opcoes": [
+          {
+            "texto": "Sim, tenho um horário diário ou semanal para a leitura.",
+            "pontos": 2
+          },
+          {
+            "texto": "Não tenho um horário fixo, leio quando surge a vontade.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não, a leitura não é uma prioridade na minha agenda.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Quando você começa um livro, você costuma terminá-lo?",
+        "opcoes": [
+          {
+            "texto": "Sim, na maioria das vezes eu concluo a leitura.",
+            "pontos": 2
+          },
+          {
+            "texto": "Às vezes, abandono alguns livros pela metade.",
+            "pontos": 1
+          },
+          {
+            "texto": "Raramente, tenho dificuldade em manter o interesse.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você carrega um livro (físico ou digital) com você para aproveitar momentos livres?",
+        "opcoes": [
+          {
+            "texto": "Sim, estou sempre com uma leitura em mãos.",
+            "pontos": 2
+          },
+          {
+            "texto": "Ocasionalmente, se sei que vou ter que esperar.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não, prefiro usar o celular para outras coisas.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você lê sobre assuntos variados ou se atém a um único gênero?",
+        "opcoes": [
+          {
+            "texto": "Gosto de variar e explorar diferentes gêneros e autores.",
+            "pontos": 2
+          },
+          {
+            "texto": "Prefiro ficar na minha zona de conforto, com meus gêneros favoritos.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não leio o suficiente para ter uma preferência.",
+            "pontos": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Hábito da organização",
+    "descricão": "Manter o ambiente e a rotina organizados reduz o estresse e aumenta a produtividade.",
+    "link": "https://genyo.com.br/habitos-organizacionais/",
+    "imagem": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+    "quiz": [
+      {
+        "pergunta": "Como está sua mesa de trabalho ou estudo agora?",
+        "opcoes": [
+          {
+            "texto": "Limpa e organizada, apenas com o essencial.",
+            "pontos": 2
+          },
+          {
+            "texto": "Um pouco bagunçada, mas sei onde estão as coisas.",
+            "pontos": 1
+          },
+          {
+            "texto": "Uma bagunça criativa, com papéis e objetos por todo lado.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você utiliza alguma ferramenta para organizar suas tarefas (agenda, app, to-do list)?",
+        "opcoes": [
+          {
+            "texto": "Sim, uso diariamente e isso me ajuda a ser produtivo(a).",
+            "pontos": 2
+          },
+          {
+            "texto": "Às vezes, mas acabo esquecendo de atualizar.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não, guardo tudo na cabeça.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Com que frequência você 'destralha' seu ambiente (doa ou joga fora o que não usa mais)?",
+        "opcoes": [
+          {
+            "texto": "Regularmente, pelo menos a cada 2-3 meses.",
+            "pontos": 2
+          },
+          {
+            "texto": "Raramente, só quando a bagunça se torna insuportável.",
+            "pontos": 1
+          },
+          {
+            "texto": "Nunca, tenho apego às minhas coisas e guardo tudo.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Ao final do dia, você costuma preparar as coisas para o dia seguinte?",
+        "opcoes": [
+          {
+            "texto": "Sim, separar roupa e organizar a mochila/bolsa me poupa tempo.",
+            "pontos": 2
+          },
+          {
+            "texto": "Às vezes, quando lembro.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não, deixo para resolver tudo na correria da manhã.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Seus arquivos digitais (fotos, documentos) são organizados em pastas?",
+        "opcoes": [
+          {
+            "texto": "Sim, tenho um sistema de pastas que me permite achar tudo fácil.",
+            "pontos": 2
+          },
+          {
+            "texto": "Alguns são, mas a maioria está espalhada pela área de trabalho.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não, é um caos. Levo muito tempo para encontrar um arquivo.",
+            "pontos": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Hábito da atividade física",
+    "descricão": "Mexer o corpo melhora a saúde física, mental e emocional.",
+    "link": "https://genyo.com.br/habitos-organizacionais/",
+    "imagem": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+    "quiz": [
+      {
+        "pergunta": "Quantas vezes por semana você pratica atividade física por pelo menos 30 minutos?",
+        "opcoes": [
+          {
+            "texto": "3 ou mais vezes por semana.",
+            "pontos": 2
+          },
+          {
+            "texto": "1 ou 2 vezes por semana.",
+            "pontos": 1
+          },
+          {
+            "texto": "Raramente ou nunca.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Qual tipo de atividade você mais pratica?",
+        "opcoes": [
+          {
+            "texto": "Uma que eu gosto e me dá prazer (dança, esporte, caminhada).",
+            "pontos": 2
+          },
+          {
+            "texto": "Faço por obrigação, geralmente musculação ou algo que não gosto.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não pratico nenhuma atividade.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você se considera uma pessoa ativa no dia a dia (usa escadas, caminha)?",
+        "opcoes": [
+          {
+            "texto": "Sim, sempre busco oportunidades para me movimentar.",
+            "pontos": 2
+          },
+          {
+            "texto": "Às vezes, mas geralmente prefiro a opção mais cômoda.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não, sou uma pessoa predominantemente sedentária.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Qual a sua maior desculpa para não se exercitar?",
+        "opcoes": [
+          {
+            "texto": "Não tenho desculpas, é uma prioridade para mim.",
+            "pontos": 2
+          },
+          {
+            "texto": "Falta de tempo ou cansaço.",
+            "pontos": 1
+          },
+          {
+            "texto": "Preguiça ou falta de motivação.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Como você se sente depois de praticar um exercício?",
+        "opcoes": [
+          {
+            "texto": "Com mais energia e de bom humor.",
+            "pontos": 2
+          },
+          {
+            "texto": "Apenas cansado(a).",
+            "pontos": 1
+          },
+          {
+            "texto": "Não sei, pois raramente me exercito.",
+            "pontos": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Hábito do foco",
+    "descricão": "Evitar distrações e treinar sua atenção aumenta o rendimento em qualquer tarefa.",
+    "link": "https://www.rodrigodabes.com.br/relacao-entre-formacao-de-um-habito-e-perda-de-foco/",
+    "imagem": "https://images.unsplash.com/photo-1588072432836-e10032774350?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+    "quiz": [
+      {
+        "pergunta": "Quando você precisa se concentrar, com que frequência você checa o celular?",
+        "opcoes": [
+          {
+            "texto": "Raramente, coloco no silencioso e fora do meu alcance.",
+            "pontos": 2
+          },
+          {
+            "texto": "De vez em quando, dou uma olhadinha nas notificações.",
+            "pontos": 1
+          },
+          {
+            "texto": "Constantemente, qualquer notificação me distrai.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você costuma fazer várias tarefas ao mesmo tempo (multitarefa)?",
+        "opcoes": [
+          {
+            "texto": "Não, prefiro focar em uma coisa de cada vez.",
+            "pontos": 2
+          },
+          {
+            "texto": "Sim, mas sinto que a qualidade do meu trabalho cai.",
+            "pontos": 1
+          },
+          {
+            "texto": "Sim, acredito que sou mais produtivo(a) assim.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você consegue trabalhar ou estudar por um período (ex: 30 min) sem interrupções?",
+        "opcoes": [
+          {
+            "texto": "Sim, consigo manter a concentração por longos períodos.",
+            "pontos": 2
+          },
+          {
+            "texto": "Tenho dificuldade, minha mente tende a divagar.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não, sou interrompido(a) ou me distraio facilmente.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Seu ambiente de trabalho/estudo é livre de distrações?",
+        "opcoes": [
+          {
+            "texto": "Sim, é um local calmo e organizado, propício à concentração.",
+            "pontos": 2
+          },
+          {
+            "texto": "Mais ou menos, há barulho e outras pessoas por perto.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não, é caótico e cheio de possíveis distrações.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você pratica alguma atividade para treinar o foco, como meditação ou mindfulness?",
+        "opcoes": [
+          {
+            "texto": "Sim, pratico regularmente.",
+            "pontos": 2
+          },
+          {
+            "texto": "Já tentei algumas vezes, mas não mantive o hábito.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não, nunca tentei.",
+            "pontos": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Hábito de dormir bem",
+    "descricão": "Uma boa noite de sono melhora o humor, memória e capacidade de aprender.",
+    "link": "https://www.pfizer.com.br/noticias/ultimas-noticias/dormir-bem-importancia-de-uma-boa-noite-de-sono",
+    "imagem": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+    "quiz": [
+      {
+        "pergunta": "Em média, quantas horas você dorme por noite?",
+        "opcoes": [
+          {
+            "texto": "Entre 7 e 9 horas.",
+            "pontos": 2
+          },
+          {
+            "texto": "Entre 5 e 6 horas.",
+            "pontos": 1
+          },
+          {
+            "texto": "Menos de 5 horas.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Como você se sente ao acordar na maioria dos dias?",
+        "opcoes": [
+          {
+            "texto": "Descansado(a) e com energia.",
+            "pontos": 2
+          },
+          {
+            "texto": "Um pouco cansado(a), preciso de um café para começar.",
+            "pontos": 1
+          },
+          {
+            "texto": "Exausto(a), como se não tivesse dormido nada.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você usa telas (celular, TV, computador) na cama antes de dormir?",
+        "opcoes": [
+          {
+            "texto": "Não, evito telas pelo menos 1 hora antes de deitar.",
+            "pontos": 2
+          },
+          {
+            "texto": "Às vezes, dou uma última olhada nas redes sociais.",
+            "pontos": 1
+          },
+          {
+            "texto": "Sim, fico no celular até pegar no sono.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Seus horários de dormir e acordar são consistentes, mesmo nos fins de semana?",
+        "opcoes": [
+          {
+            "texto": "Sim, tento manter uma rotina regular.",
+            "pontos": 2
+          },
+          {
+            "texto": "Varia um pouco, principalmente nos fins de semana.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não, cada dia durmo e acordo em um horário diferente.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Seu quarto é um ambiente propício para o sono (escuro, silencioso e fresco)?",
+        "opcoes": [
+          {
+            "texto": "Sim, é um santuário do sono.",
+            "pontos": 2
+          },
+          {
+            "texto": "Mais ou menos, às vezes tem barulho ou entra claridade.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não, durmo com a TV ligada ou em um ambiente claro/barulhento.",
+            "pontos": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Hábito da alimentação saudável",
+    "descricão": "Comer bem traz energia, fortalece a imunidade e melhora o bem-estar geral.",
+    "link": "https://www.saudeamericas.com.br/post/habitos-alimentares-saudaveis/",
+    "imagem": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+    "quiz": [
+      {
+        "pergunta": "Quantas porções de frutas e vegetais você consome por dia?",
+        "opcoes": [
+          {
+            "texto": "5 ou mais, eles são a base da minha alimentação.",
+            "pontos": 2
+          },
+          {
+            "texto": "De 1 a 4, tento incluir quando lembro.",
+            "pontos": 1
+          },
+          {
+            "texto": "Quase nenhuma, não gosto muito ou esqueço.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Com que frequência você consome alimentos ultraprocessados (salgadinhos, refrigerantes, macarrão instantâneo)?",
+        "opcoes": [
+          {
+            "texto": "Raramente, são exceções na minha dieta.",
+            "pontos": 2
+          },
+          {
+            "texto": "Algumas vezes por semana.",
+            "pontos": 1
+          },
+          {
+            "texto": "Diariamente, eles fazem parte da minha rotina.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Quantos litros de água você bebe por dia, em média?",
+        "opcoes": [
+          {
+            "texto": "Cerca de 2 litros ou mais.",
+            "pontos": 2
+          },
+          {
+            "texto": "Cerca de 1 litro.",
+            "pontos": 1
+          },
+          {
+            "texto": "Bebo pouca água, geralmente só quando sinto muita sede.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você costuma cozinhar suas próprias refeições?",
+        "opcoes": [
+          {
+            "texto": "Sim, na maioria das vezes, pois controlo os ingredientes.",
+            "pontos": 2
+          },
+          {
+            "texto": "Às vezes, mas peço muito delivery por conveniência.",
+            "pontos": 1
+          },
+          {
+            "texto": "Raramente, minha alimentação é baseada em comida pronta.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Como você se sente após as refeições?",
+        "opcoes": [
+          {
+            "texto": "Satisfeito(a) e com energia.",
+            "pontos": 2
+          },
+          {
+            "texto": "Muitas vezes me sinto pesado(a) e sonolento(a).",
+            "pontos": 1
+          },
+          {
+            "texto": "Frequentemente tenho azia, gases ou má digestão.",
+            "pontos": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Hábito da gratidão",
+    "descricão": "Praticar gratidão diariamente reduz o estresse e aumenta a sensação de felicidade.",
+    "link": "https://www.psicologoeterapia.com.br/blog/gratidao-como-este-habito-fortalece-a-saude-mental/",
+    "imagem": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+    "quiz": [
+      {
+        "pergunta": "Você reserva um momento do seu dia para pensar nas coisas pelas quais é grato(a)?",
+        "opcoes": [
+          {
+            "texto": "Sim, é uma prática diária ou muito frequente.",
+            "pontos": 2
+          },
+          {
+            "texto": "Às vezes, quando algo muito bom acontece.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não, raramente penso sobre isso.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Com que frequência você expressa sua gratidão às pessoas ao seu redor?",
+        "opcoes": [
+          {
+            "texto": "Frequentemente, faço questão de agradecer as pessoas.",
+            "pontos": 2
+          },
+          {
+            "texto": "Ocasionalmente, para gestos muito grandes.",
+            "pontos": 1
+          },
+          {
+            "texto": "Raramente, assumo que as pessoas sabem que sou grato(a).",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você mantém um 'diário de gratidão' ou algo parecido?",
+        "opcoes": [
+          {
+            "texto": "Sim, e isso me ajuda a ver o lado positivo da vida.",
+            "pontos": 2
+          },
+          {
+            "texto": "Já tentei, mas não consegui manter o hábito.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não, acho que não funcionaria para mim.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Diante de um desafio, você consegue encontrar algum ponto para ser grato(a)?",
+        "opcoes": [
+          {
+            "texto": "Sim, tento focar no aprendizado ou em algum aspecto positivo.",
+            "pontos": 2
+          },
+          {
+            "texto": "É muito difícil, geralmente foco apenas no problema.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não, só consigo ver o lado negativo da situação.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você se sente mais feliz ao focar nas coisas que tem ou nas que lhe faltam?",
+        "opcoes": [
+          {
+            "texto": "Foco no que tenho e me sinto satisfeito(a).",
+            "pontos": 2
+          },
+          {
+            "texto": "Fico dividido(a) entre os dois sentimentos.",
+            "pontos": 1
+          },
+          {
+            "texto": "Estou sempre pensando no que ainda não conquistei.",
+            "pontos": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Hábito do estudo contínuo",
+    "descricão": "Aprender algo novo todos os dias mantém seu cérebro ativo e expande suas habilidades.",
+    "link": "https://querobolsa.com.br/revista/estudo-continuado",
+    "imagem": "https://images.unsplash.com/photo-1532012197267-da84d127e765?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+    "quiz": [
+      {
+        "pergunta": "Quando foi a última vez que você aprendeu algo novo (um hobby, uma habilidade, um idioma)?",
+        "opcoes": [
+          {
+            "texto": "Neste último mês, estou sempre buscando aprender.",
+            "pontos": 2
+          },
+          {
+            "texto": "No último ano, mas não é uma prioridade.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não me lembro, faz muito tempo.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você dedica tempo semanalmente para estudar ou se aprofundar em algum assunto de interesse?",
+        "opcoes": [
+          {
+            "texto": "Sim, tenho um tempo reservado para isso.",
+            "pontos": 2
+          },
+          {
+            "texto": "Às vezes, quando sobra tempo.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não, a rotina não permite.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você consome conteúdos que te ensinam algo (documentários, podcasts, artigos, cursos online)?",
+        "opcoes": [
+          {
+            "texto": "Sim, diariamente.",
+            "pontos": 2
+          },
+          {
+            "texto": "Ocasionalmente.",
+            "pontos": 1
+          },
+          {
+            "texto": "Raramente, prefiro entretenimento puro.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você se sente curioso(a) sobre como as coisas funcionam ou sobre assuntos fora da sua área?",
+        "opcoes": [
+          {
+            "texto": "Muito, estou sempre pesquisando e fazendo perguntas.",
+            "pontos": 2
+          },
+          {
+            "texto": "Um pouco, tenho alguns interesses específicos.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não muito, prefiro me ater ao que já conheço.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Como você encara o aprendizado após a educação formal (escola/faculdade)?",
+        "opcoes": [
+          {
+            "texto": "Como um processo contínuo e para a vida toda.",
+            "pontos": 2
+          },
+          {
+            "texto": "Como algo necessário apenas para a carreira.",
+            "pontos": 1
+          },
+          {
+            "texto": "Como uma fase que já terminou.",
+            "pontos": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Hábito da meditação",
+    "descricão": "A meditação ajuda a reduzir ansiedade, melhorar o foco e aumentar o bem-estar emocional.",
+    "link": "https://www.atmameditacao.com.br/blog/meditacao-beneficios-como-comecar",
+    "imagem": "https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+    "quiz": [
+      {
+        "pergunta": "Com que frequência você pratica meditação ou alguma forma de relaxamento consciente?",
+        "opcoes": [
+          {
+            "texto": "Diariamente ou quase todos os dias.",
+            "pontos": 2
+          },
+          {
+            "texto": "Uma ou duas vezes por semana.",
+            "pontos": 1
+          },
+          {
+            "texto": "Raramente ou nunca.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Quando você se sente estressado(a) ou ansioso(a), o que você faz?",
+        "opcoes": [
+          {
+            "texto": "Tento parar por um momento e focar na minha respiração.",
+            "pontos": 2
+          },
+          {
+            "texto": "Me distraio com redes sociais ou TV.",
+            "pontos": 1
+          },
+          {
+            "texto": "Apenas continuo sentindo o estresse, sem saber o que fazer.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você consegue ficar alguns minutos em silêncio, apenas observando seus pensamentos?",
+        "opcoes": [
+          {
+            "texto": "Sim, é uma prática que tenho familiaridade.",
+            "pontos": 2
+          },
+          {
+            "texto": "Tenho muita dificuldade, minha mente é muito agitada.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não, acho impossível ou uma perda de tempo.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Você já utilizou algum aplicativo de meditação guiada?",
+        "opcoes": [
+          {
+            "texto": "Sim, uso ou já usei e me ajudou.",
+            "pontos": 2
+          },
+          {
+            "texto": "Já baixei, mas usei poucas vezes.",
+            "pontos": 1
+          },
+          {
+            "texto": "Não, nunca tive interesse.",
+            "pontos": 0
+          }
+        ]
+      },
+      {
+        "pergunta": "Como você reage a pensamentos e emoções desconfortáveis?",
+        "opcoes": [
+          {
+            "texto": "Tento observá-los sem julgamento, sabendo que são passageiros.",
+            "pontos": 2
+          },
+          {
+            "texto": "Tento ignorá-los ou luto contra eles.",
+            "pontos": 1
+          },
+          {
+            "texto": "Sou completamente dominado(a) por eles.",
+            "pontos": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Revisão Financeira Semanal",
+    "descricao": "Dedicar 30 minutos por semana para analisar gastos, receitas e atualizar o orçamento, garantindo que as finanças estejam alinhadas com os objetivos.",
+    "categoria": "Finanças",
+    "link": "https://www.planejamentofinanceiro.com.br/guia-basico-orcamento",
+    "tags": [
+      "orçamento",
+      "controle de gastos",
+      "saúde financeira",
+      "consciência"
+    ]
+  },
+  {
+    "nome": "Prática de Respiração Consciente",
+    "descricao": "Realizar 5 minutos de exercícios de respiração profunda (4-7-8) em momentos de estresse ou como parte da rotina matinal para acalmar o sistema nervoso.",
+    "categoria": "Bem-Estar",
+    "link": "https://www.harvardhealth.com/respiração-para-ansiedade",
+    "tags": [
+      "ansiedade",
+      "calma",
+      "clareza mental",
+      "técnica 4-7-8"
+    ]
+  },
+  {
+    "nome": "Escrita Matinal (Journaling)",
+    "descricao": "Escrever livremente por 10 minutos logo ao acordar para organizar pensamentos, processar emoções e definir a intenção do dia.",
+    "categoria": "Desenvolvimento Pessoal",
+    "link": "https://www.artedeescrever.org/beneficios-journaling",
+    "tags": [
+      "autoconhecimento",
+      "reflexão",
+      "clareza",
+      "expressão emocional"
+    ]
+  },
+  {
+    "nome": "Técnica Pomodoro Diária",
+    "descricao": "Utilizar a técnica Pomodoro (25 minutos de trabalho focado, 5 minutos de pausa) para maximizar a concentração durante tarefas complexas.",
+    "categoria": "Produtividade",
+    "link": "https://www.foconaacao.com/como-aplicar-pomodoro",
+    "tags": [
+      "gestão do tempo",
+      "foco profundo",
+      "intervalos",
+      "eficiência"
+    ]
+  },
+  {
+    "nome": "Hidratação Controlada",
+    "descricao": "Monitorar e garantir a ingestão mínima recomendada de água (ex: 2 litros) ao longo do dia, utilizando um copo ou garrafa dedicada.",
+    "categoria": "Saúde",
+    "link": "https://www.nutricaoesaude.net/importancia-da-agua",
+    "tags": [
+      "energia",
+      "bem-estar físico",
+      "saúde renal",
+      "rotina matinal"
+    ]
+  },
+  {
+    "nome": "Alongamento Pós-Acordar",
+    "descricao": "Realizar uma série de alongamentos suaves por 5 a 10 minutos logo após sair da cama para melhorar a flexibilidade e reduzir a rigidez muscular.",
+    "categoria": "Saúde",
+    "link": "https://www.fisioterapiaativa.com/alongamentos-matinais",
+    "tags": [
+      "flexibilidade",
+      "prevenção de lesões",
+      "mobilidade",
+      "vitalidade"
+    ]
+  },
+  {
+    "nome": "Aprender 5 Palavras Novas",
+    "descricao": "Comprometer-se a aprender e memorizar o significado e o uso de 5 palavras novas em um idioma (nativo ou estrangeiro) todos os dias.",
+    "categoria": "Desenvolvimento Pessoal",
+    "link": "https://www.linguagemglobal.com/dicas-expansao-vocabulario",
+    "tags": [
+      "aprendizado rápido",
+      "vocabulário",
+      "expansão mental",
+      "conhecimento"
+    ]
+  },
+  {
+    "nome": "Planejamento de Refeições",
+    "descricao": "Planejar todas as refeições do dia ou da semana com antecedência, garantindo opções nutritivas e evitando decisões alimentares impulsivas.",
+    "categoria": "Saúde",
+    "link": "https://www.cozinhainteligente.org/meal-prepping",
+    "tags": [
+      "nutrição",
+      "economia de tempo",
+      "saúde alimentar",
+      "disciplina"
+    ]
+  },
+  {
+    "nome": "Desconectar 1 Hora Antes de Dormir",
+    "descricao": "Desligar todas as telas (celular, tablet, TV) pelo menos 60 minutos antes de se deitar para melhorar a qualidade do sono e reduzir a exposição à luz azul.",
+    "categoria": "Bem-Estar",
+    "link": "https://www.institutodosono.com/higiene-do-sono-digital",
+    "tags": [
+      "qualidade do sono",
+      "relaxamento",
+      "redução de estresse",
+      "higiene do sono"
+    ]
+  },
+  {
+    "nome": "Limpeza Digital Diária",
+    "descricao": "Gastar 15 minutos por dia limpando a caixa de entrada de e-mail, excluindo arquivos desnecessários ou organizando pastas no computador.",
+    "categoria": "Produtividade",
+    "link": "https://www.organizacaodigital.net/tecnicas-de-limpeza",
+    "tags": [
+      "organização",
+      "eficiência",
+      "espaço mental",
+      "rotina de trabalho"
+    ]
+  },
+  {
+    "nome": "Networking Ativo (1 Contato/Semana)",
+    "descricao": "Dedicar tempo semanalmente para enviar uma mensagem a um contato profissional ou social, mantendo relacionamentos e expandindo a rede de contatos.",
+    "categoria": "Carreira",
+    "link": "https://www.carreiraesucesso.com/estrategias-de-networking",
+    "tags": [
+      "relacionamento profissional",
+      "oportunidades",
+      "comunicação",
+      "carreira"
+    ]
+  },
+  {
+    "nome": "Visualização de Metas",
+    "descricao": "Passar 5 minutos diários visualizando vividamente a conquista das principais metas de longo prazo para manter o foco e a motivação.",
+    "categoria": "Desenvolvimento Pessoal",
+    "link": "https://www.poderdamente.com/tecnicas-de-visualizacao",
+    "tags": [
+      "motivação",
+      "clareza de propósito",
+      "mentalidade",
+      "realização"
+    ]
+  },
+  {
+    "nome": "Caminhada Rápida de 15 Minutos",
+    "descricao": "Incorporar uma breve caminhada rápida durante o almoço ou após o jantar para movimentar o corpo e oxigenar a mente.",
+    "categoria": "Saúde",
+    "link": "https://www.movimenteseucorpo.org/caminhada-curta-beneficios",
+    "tags": [
+      "exercício leve",
+      "redução do sedentarismo",
+      "saúde cardiovascular",
+      "pausa ativa"
+    ]
+  },
+  {
+    "nome": "Revisão de Tarefas (Ao Final do Dia)",
+    "descricao": "Revisar a lista de tarefas do dia, marcar o que foi concluído e planejar as três prioridades para o dia seguinte, encerrando o ciclo de trabalho.",
+    "categoria": "Produtividade",
+    "link": "https://www.getthingsdone.com/fechamento-diario-gtg",
+    "tags": [
+      "planejamento",
+      "gestão de tarefas",
+      "eficiência",
+      "encerramento"
+    ]
+  },
+  {
+    "nome": "Reservar Dinheiro Para Investimento Automático",
+    "descricao": "Configurar uma transferência automática recorrente para investimentos logo após o recebimento do salário, priorizando o crescimento patrimonial.",
+    "categoria": "Finanças",
+    "link": "https://www.investidorsabio.net/o-poder-do-investimento-automatico",
+    "tags": [
+      "poupança",
+      "investimento",
+      "disciplina financeira",
+      "automação"
+    ]
+  },
+  {
+    "nome": "Prática de Silêncio e Reflexão",
+    "descricao": "Reservar 10 minutos em silêncio absoluto, sem distrações, apenas observando os pensamentos e o ambiente, promovendo a introspecção.",
+    "categoria": "Bem-Estar",
+    "link": "https://www.espacointerno.org/poder-do-silencio",
+    "tags": [
+      "introspecção",
+      "paz interior",
+      "mindfulness",
+      "autoconhecimento"
+    ]
+  },
+  {
+    "nome": "Consumo de Uma Porção de Vegetais Verdes",
+    "descricao": "Garantir a ingestão diária de pelo menos uma porção de vegetais folhosos verdes escuros (couve, espinafre, brócolis) para aumentar a ingestão de nutrientes.",
+    "categoria": "Saúde",
+    "link": "https://www.alimentacaofuncional.com/beneficios-vegetais-escuros",
+    "tags": [
+      "nutrientes",
+      "saúde intestinal",
+      "imunidade",
+      "dieta equilibrada"
+    ]
+  },
+  {
+    "nome": "Aprender Uma Nova Habilidade Por 30 Minutos",
+    "descricao": "Dedicar 30 minutos ininterruptos todos os dias ao estudo de uma nova habilidade relevante para a carreira ou um hobby pessoal (ex: programação, idioma, música).",
+    "categoria": "Desenvolvimento Pessoal",
+    "link": "https://www.aprendizagemsustentavel.org/regra-30minutos",
+    "tags": [
+      "upskilling",
+      "habilidades",
+      "consistência",
+      "crescimento"
+    ]
+  },
+  {
+    "nome": "Declaração de Intenções Matinais",
+    "descricao": "Logo ao acordar, definir mentalmente ou em voz alta 3 intenções claras sobre como agir, reagir e quais resultados esperar para o dia.",
+    "categoria": "Produtividade",
+    "link": "https://www.mentalidadepositiva.com/poder-das-intencoes",
+    "tags": [
+      "mentalidade",
+      "propósito",
+      "definição de metas",
+      "rotina matinal"
+    ]
+  },
+  {
+    "nome": "Fazer Backups de Dados",
+    "descricao": "Realizar o backup de arquivos importantes, seja para a nuvem ou disco externo, semanalmente, prevenindo a perda de informações cruciais.",
+    "categoria": "Tecnologia/Segurança",
+    "link": "https://www.segurancadigital.net/rotina-de-backup",
+    "tags": [
+      "segurança digital",
+      "prevenção",
+      "tecnologia",
+      "organização"
+    ]
+  },
+  {
+    "nome": "Expressar Apreciação a Alguém",
+    "descricao": "Tirar um momento por dia para agradecer ou elogiar verbalmente ou por escrito o trabalho ou a presença de alguém próximo (amigo, colega, familiar).",
+    "categoria": "Relacionamentos",
+    "link": "https://www.psicologiapositiva.org/pratica-da-apreciacao",
+    "tags": [
+      "conexão social",
+      "empatia",
+      "relacionamentos",
+      "bem-estar emocional"
+    ]
+  },
+  {
+    "nome": "Eliminar Uma Distração (App, Notificação)",
+    "descricao": "Identificar e desativar ou deletar uma fonte de distração digital (aplicativo, notificação push) por dia ou semana, melhorando o foco.",
+    "categoria": "Produtividade",
+    "link": "https://www.minimalismodigital.com/reduzir-distracoes",
+    "tags": [
+      "foco",
+      "minimalismo digital",
+      "gerenciamento de tempo",
+      "autocontrole"
+    ]
+  },
+  {
+    "nome": "Gerenciamento de Dívidas",
+    "descricao": "Se houver dívidas, dedicar 15 minutos semanais para revisar os pagamentos, negociar taxas de juros ou planejar a amortização prioritária.",
+    "categoria": "Finanças",
+    "link": "https://www.financaspessoais.net/estrategias-para-sair-das-dividas",
+    "tags": [
+      "liberdade financeira",
+      "controle de dívidas",
+      "negociação",
+      "responsabilidade"
+    ]
+  },
+  {
+    "nome": "Postura Correta no Trabalho",
+    "descricao": "Verificar ativamente a postura (ombros, pescoço, costas) a cada hora, ajustando a cadeira e a tela do computador para manter a ergonomia.",
+    "categoria": "Saúde",
+    "link": "https://www.ergonomiaesaude.com/guia-postura-escritorio",
+    "tags": [
+      "ergonomia",
+      "saúde corporal",
+      "prevenção de dores",
+      "consciência corporal"
+    ]
+  },
+  {
+    "nome": "Escuta Ativa em Conversas",
+    "descricao": "Ao conversar com alguém, focar totalmente no interlocutor, evitando interrupções ou planejar a resposta enquanto a pessoa ainda está falando.",
+    "categoria": "Desenvolvimento Pessoal",
+    "link": "https://www.comunicacaoeficaz.com/tecnicas-escuta-ativa",
+    "tags": [
+      "comunicação",
+      "empatia",
+      "relacionamentos interpessoais",
+      "inteligência emocional"
+    ]
+  }
+]
